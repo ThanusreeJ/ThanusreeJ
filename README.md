@@ -37,7 +37,22 @@ src="https://img.shields.io/github/followers/ThanusreeJ?logo=github&style=for-th
 <a href="http://www.github.com/ThanusreeJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanusreeJ&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://github.com/ThanusreeJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanusreeJ&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+  
+<div align="center">
+<a href="https://github.com/ThanusreeJ">
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanusreeJ&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanusreeJ&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThanusreeJ&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanusreeJ&theme=algolia" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ThanusreeJ&theme=react-dark"/>
+
 
  
 ### View Count
