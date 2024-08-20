@@ -7,7 +7,7 @@ Data Science Student
 An engineering student with a CSE background in Data Science, proficient in Java, data structures, algorithms, Python, machine learning, and deep learning. Currently learning HTML and CSS, demonstrating a commitment to continuous learning and staying current with tech advancements.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfoilo](http://thanusreej.github.io/ThanuSree.github.io/)
+* 🖥️  See my portfolio at [MyPortfoilo]([http://thanusreej.github.io/ThanuSree.github.io/](https://thanusreej.github.io/portfolio-thanusree/))
 * ✉️  You can contact me at [thanusreejanapati@gmail.com](mailto:thanusreejanapati@gmail.com)
 * 🧠  I'm learning Data Structures and Machine learning projects
 * 🤝  I'm open to collaborating on Machine learning and Python projects
