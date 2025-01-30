@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------
 
-An engineering student with a CSE background in Data Science, proficient in Java, data structures, SQL, algorithms, Python, machine learning, and deep learning.And also had a good knowledge on mMongoDb and Django
+An engineering student with a CSE background in Data Science, proficient in Java, data structures, SQL, algorithms, Python, machine learning, and deep learning.And also had a good knowledge on MongoDb and Django
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfoilo](https://thanusreej.github.io/portfolio-thanusree/)
