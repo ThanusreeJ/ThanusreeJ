@@ -3,25 +3,56 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Science Student
 --------------------
+ 
 
-An engineering student with a CSE background in Data Science, proficient in Java, data structures, SQL, algorithms, Python, machine learning, and deep learning.And also had a good knowledge on MongoDb and Django
+🚀 **An engineering student with a CSE background specializing in Data Science**, proficient in **Java, Data Structures, SQL, Algorithms, Python, Machine Learning, and Deep Learning**.  
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfoilo](https://thanusreej.github.io/portfolio-thanusree/)
-* ✉️  You can contact me at [thanusreejanapati@gmail.com](mailto:thanusreejanapati@gmail.com)
-* 🧠  I'm learning Data Structures and Machine learning projects
-* 🤝  I'm open to collaborating on Machine learning and Python projects
-* ⚡  Passionate about continuous learning and exploring new technologies.Currently enhancing my web development skills with HTML and CSS. Enthusiastic about applying machine learning and deep learning techniques to real-world problems.
+I have completed an **AI internship at Rubixe** and have hands-on experience with **Artificial Intelligence, Machine learning, MongoDB, Django, Docker, Apache Airflow, and Linux**.  
 
-<a href="https://www.github.com/ThanusreeJ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ThanusreeJ?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+---
 
-### Skills
+### 💡 About Me  
+
+- 🌍 Based in **India**  
+- 🖥️ **Portfolio**: [MyPortfolio](https://thanusreej.github.io/portfolio-thanusree/)  
+- ✉️ **Contact Me**: [thanusreejanapati@gmail.com](mailto:thanusreejanapati@gmail.com)  
+- 🧠 Currently **learning and implementing AI & ML projects**  
+- 🤝 Open to **collaborating on Machine Learning and Deep learning projects**  
+- 🔥 Passionate about **continuous learning and exploring new technologies**  
+- 🎯 Currently enhancing my **Web Development** skills in **HTML & CSS**  
+
+---
+
+### 🛠️ Tech Stack & Skills  
+
+#### **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+#### **Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+#### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/ApacheAirflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+#### **Machine Learning & AI**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+🔥 _Let's connect and build amazing things together!_ 🚀  
+
+
 
 
 ### Socials
@@ -67,3 +98,13 @@ src="https://img.shields.io/github/followers/ThanusreeJ?logo=github&style=for-th
 <div width="100%" align="center"><a href="https://github.com/ThanusreeJ/Text-emotion-classification-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanusreeJ&repo=Text-emotion-classification-project&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/ThanusreeJ/Netflix-Login-Page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanusreeJ&repo=Netflix-Login-Page&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ThanusreeJ/Number-Guessing-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanusreeJ&repo=Number-Guessing-Game&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en" /></a></div>
+
+
+
+
+
+
+
+
+
+
